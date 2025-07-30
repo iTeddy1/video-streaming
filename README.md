@@ -2,15 +2,15 @@
 
 ## Overview
 
-This project is a video streaming application built entirely with open-source technologies, designed to meet real user requirements. The application allows streamers to broadcast live video directly from their laptop webcam or phone camera to a limited number of viewers. It also supports video quality adaptation based on viewer's network bandwidth.
+This project is a video streaming application built entirely with open-source technologies, designed to meet real user requirements. The application allows streamers to broadcast live video directly from their laptop webcam or phone camera to a limited number of viewers. It also supports video quality adaptation based on the viewer's network bandwidth.
 
 ---
 
 ## Project Information
 
 - **Course:** Multimedia Communication Technology  
-- **Instructor:** Dr. Nguyễn Tấn Hoàng Phước  
-- **Class:** NT536.P11  
+- **Instructor:**  Nguyễn Tấn Hoàng Phước  
+- **Class:** NT53.P11  
 - **Team:** Group 9  
 - **Team Members:**  
   - Nguyễn Duy Trung (ID: 22521565)  
